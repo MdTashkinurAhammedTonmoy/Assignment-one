@@ -35,6 +35,13 @@ header {
     border: 1px solid white;
     cursor: pointer;
 }
+
+#button-t:hover {
+    background-color: aqua;
+    padding: 19px 46px;
+    color: rgb(0, 0, 0);
+    font-size: 26px;
+}
 #hiding-1 {
     width: 905px;
     height: 152px;
@@ -295,6 +302,12 @@ input ::placeholder {
     border-radius:12px ;
     border: 1px solid white;
     cursor: pointer;
+}
+
+#button-r:hover {
+    background-color: #a9d40b;
+    padding: 19px 140px;
+    font-size: 20px;
 }
 
 /* foter-box-2 */
