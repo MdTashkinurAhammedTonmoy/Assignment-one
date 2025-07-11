@@ -45,3 +45,33 @@ header {
     margin-bottom: 37px;
 }
 
+/* box 2 */
+
+#main-1{
+    width: 1140px;
+    height: 328px;
+    margin: 116px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#main-2 h2{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 23px;
+}
+
+#main-2 p{
+    font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
+}
+#p-1{
+    margin-bottom: 23px;
+}
+
+#img-1 {
+    border-radius: 48px;
+}
+
