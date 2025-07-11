@@ -33,6 +33,7 @@ header {
     font-size: 16px;
     border-radius:12px ;
     border: 1px solid white;
+    cursor: pointer;
 }
 #hiding-1 {
     width: 905px;
@@ -293,7 +294,49 @@ input ::placeholder {
     font-size: 16px;
     border-radius:12px ;
     border: 1px solid white;
+    cursor: pointer;
 }
 
 /* foter-box-2 */
 
+#footer-2 {
+    height: 228px;
+    background-color: #FFFFFF;
+    padding: 104px;
+}
+
+#footer-3 {
+    height: 221px;
+    width: 531px;
+    margin: 0px auto;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+#footer-3 h2 {
+    font-size: 100px;
+    font-weight: bolder;
+    color: #4E47FF;
+    background-color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+#footer-2 p{
+    font-size: 16px;
+    color: #8987A1;
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+#nav-1 {
+    font-size: 16px;
+    color: #8987A1;
+    list-style: none;
+    display: flex;
+    background-color: #FFFFFF;
+    justify-content: space-around;
+}
+
+li {
+    background-color: #FFFFFF;
+}
