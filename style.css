@@ -201,3 +201,99 @@ header {
     margin-bottom: 24px;
 
 }
+
+/* main-box-4 */
+#main-box-4-1 {
+    width: 1000px;
+    height: 600px;
+    background-color: #FFFFFF;
+    padding: 79px;
+    text-align: center;
+    margin: 0px auto;
+    border-radius: 14px;
+    margin-bottom: 92.23px;
+}
+#main-box-4-2 {
+    width: 840px;
+    height: 364.77px;
+    margin: 20px auto;
+    background-image: url(Assets/wc-big.png);
+    background-size: cover;
+    border-radius: 48px;
+}
+
+#main-box-4-1 h2{
+    font-size: 50px;
+    font-weight: bold;
+    color: 000000;
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+#main-box-4-1 p{
+    font-size: 16px;
+    font-weight: regular;
+    color: rgba(0, 0, 0, 0.5);
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+/* foter-box-1 */
+#fotter-1 {
+    width: 1140px;
+    height: 632px;
+    display: flex;
+    align-items: center;
+    margin: 0px auto;
+    justify-content: space-between;
+}
+
+#fotter-1 h2 {
+    font-size: 97px;
+    font-weight: bold;
+    color: 000000;
+    margin-right: 115px;
+}
+
+#label-1{
+    font-size: 18px;
+    font-weight: Medium;
+    margin-bottom: 10px;
+}
+
+form input {
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    padding: 20px 32px;
+    background-color: #FFFFFF;
+    border: 2px solid #D6DDED;
+    margin-bottom: 10px;
+}
+#label-2 {
+    border-radius: 10px;
+    padding: 20px 32px;
+    background-color: #FFFFFF;
+    border: 2px solid #D6DDED;
+    width: 300px;
+    height: 70px;
+    font-size: 18px;
+    font-weight: Medium;
+    margin-bottom: 10px;
+}
+input ::placeholder {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#button-r {
+    background-color: #4E47FF;
+    padding: 19px 137px;
+    color: white;
+    font-size: 16px;
+    border-radius:12px ;
+    border: 1px solid white;
+}
+
+/* foter-box-2 */
+
