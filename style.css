@@ -1,6 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
+    background-color: #F5F8FF;
 }
   /*heder box 1 */
 header {
@@ -16,6 +17,7 @@ header {
     justify-content: space-between;
     margin: 0px auto;
     align-items: center;
+    background-image: url(Assets/Hero-bg.png);
 }
 
 #hiding-2 h2 {
@@ -37,15 +39,17 @@ header {
     height: 152px;
     text-align: center;
     margin: 152px auto;
+    
 }
 
 #hiding-1 h2{
     font-size: 65px;
     font-weight: bolder;
     margin-bottom: 37px;
+    background-image: url(Assets/Hero-bg.png);
 }
 
-/* main box 2 */
+/* main box 1 */
 
 #main-1{
     width: 1140px;
@@ -75,8 +79,7 @@ header {
     border-radius: 48px;
 }
 
-/* main box 3 */
-
+/* main box 2 */
 #main-box-1 {
     width: 1140px;
     height: 306px;
@@ -92,6 +95,8 @@ header {
     margin: 50px 150px;
     position: absolute;
     text-align: center;
+    
+    
 }
 
 #main-box-2 h2 {
@@ -99,19 +104,100 @@ header {
     font-weight: bold;
     color: #252432;
     margin-bottom: 40px;
+    background-color: rgba(78, 71, 255, 0.1);
+    
 }
 #main-box-3{
     display: flex;
     justify-content: space-between;
+    background-color: rgba(78, 71, 255, 0.1);
+
+
 }
 
 #main-box-3 h3 {
     font-size: 80px;
     font-weight: bold;
     color: #4E47FF;
+    background-color: rgba(78, 71, 255, 0.1);
+    
 }
 
 #main-box-3 P{
     font-size: 20px;
     color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(78, 71, 255, 0.1);
+}
+
+/* main box-3 */
+#box-1 {
+    width: 1140px;
+    height: 342px;
+    margin: 137px auto;
+    
+    
+}
+
+#box-3 {
+    height: 243px;
+    display: flex;
+    
+
+    
+    
+}
+
+#box-2 {
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+#box-4 {
+    border: 2px solid #F2EDED;
+    border-radius: 14px;
+     margin: 0px 20px;
+     background-color: #FFFFFF;
+     justify-content: space-between;
+     padding: 24px;
+     
+}
+
+#box-3 h2 {
+    font-size: 24px;
+    color: #1E1E1E;
+    background-color: #FFFFFF;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+#box-3 p {
+    font-size: 16px;
+    color: #1E1E1E;
+}
+#box-5{
+    display: flex;
+    background-color: #FFFFFF;
+    align-items: center;
+}
+
+#box-5 img {
+    border-radius: 50%;
+    margin-right: 12px;
+    
+}
+#box-5 h3 {
+    color: #757575;
+    font-size: 16px;
+    font-weight: semi bold;
+    background-color: #FFFFFF;
+}
+
+#box-3 p{
+    font-size: 16px;
+    color: #1E1E1E;
+    background-color: #FFFFFF;
+    margin-bottom: 24px;
+
 }
